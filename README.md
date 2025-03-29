@@ -60,7 +60,7 @@ I'm deeply fascinated by the intricate workings of computer science. Understandi
 
 ## Recent Activity 📊
 
-[![GitHub Stats](https://github.com/LipeBM/api?username=LipeBM&show_icons=true&theme=radical)](https://github.com/LipeBM)
-[![Top Langs](https://github.com/LipeBM/api/top-langs/?username=LipeBM&layout=compact&theme=radical)](https://github.com/LipeBM)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LipeBM&show_icons=true&theme=radical)](https://github.com/LipeBM)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LipeBM&layout=compact&theme=radical)](https://github.com/LipeBM)
 
 **Let's build something awesome together!** 🚀
